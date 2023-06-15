@@ -19,7 +19,7 @@ You can install The Bright Me on your Android device by downloading .apk file vi
 - [Honestyan Didyafarhan Atthariq](https://github.com/honestyan/) as Cloud & Backend Developer
 - [Hafizh Abid Wibowo](https://github.com/hfzh) as Cloud & Backend Developer
 - [Ratna Sih Pinasti](https://github.com/gladiolusxr) as Mobile Developer
-- [Fanny Nugrahani]() as Mobile Developer
+- [Fanny Nugrahani](https://github.com/gladiolusxr) as Mobile Developer
 
   
 # Build with
