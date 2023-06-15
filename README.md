@@ -10,7 +10,7 @@ Bright Me is designed with an attractive appearance and is easier for users to u
 
 
 # Install
-You can install The Bright Me on your Android device by downloading .apk file via [this link]().
+You can install The Bright Me on your Android device by downloading .apk file via [this link](https://drive.google.com/file/d/1Ziic_EjmgYE92bsVD2-uUAqqqWNP68Tq/view?usp=sharing).
 
 
 # Contributors :
