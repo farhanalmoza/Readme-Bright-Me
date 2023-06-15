@@ -5,7 +5,7 @@
 
   
 
-## Skincare Application based on Machine Learning and Blockchain Technology <br>
+## Skin Analysis and Smart Beauty Application <br>
 Bright Me is designed with an attractive appearance and is easier for users to use. The first main feature of Bright Me is the AI Skin Analyzer which allows users to find out the skin type and skin diseases on their face. The second is Skincare Recommendation which provides several skincare product recommendations based on the user's facial problems.
 
 
